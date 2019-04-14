@@ -1,0 +1,11 @@
+class A{
+  private int A1;
+  private float A2;
+  
+  public void MA1(){
+    System.out.println("MA1");
+  }
+  public void MA2(){
+    System.out.println("MA2");
+  }
+}
